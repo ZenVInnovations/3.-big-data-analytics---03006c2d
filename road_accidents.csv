@@ -1,0 +1,301 @@
+Date,Time,Location,Accident_Severity,Number_of_Vehicles,Weather_Conditions,Light_Conditions,Road_Surface_Conditions
+2024-01-01,22:48,Highway 1,Fatal,1,Snow,Darkness - Lights On,Wet
+2024-01-02,05:52,Highway 2,Slight,2,Rain,Daylight,Wet
+2024-01-03,18:23,City C,Slight,4,Rain,Darkness - No Lights,Dry
+2024-01-04,20:49,Highway 2,Slight,3,Clear,Daylight,Wet
+2024-01-05,14:45,Highway 2,Fatal,4,Clear,Daylight,Dry
+2024-01-06,06:31,City B,Slight,7,Clear,Darkness - No Lights,Dry
+2024-01-07,14:47,City C,Slight,3,Clear,Darkness - Lights On,Ice
+2024-01-08,23:55,City C,Slight,5,Windy,Darkness - Lights On,Snow
+2024-01-09,00:24,City C,Slight,4,Clear,Daylight,Ice
+2024-01-10,04:12,Highway 2,Slight,3,Windy,Darkness - No Lights,Snow
+2024-01-11,21:55,Highway 1,Slight,1,Windy,Darkness - Lights On,Snow
+2024-01-12,16:05,City C,Slight,3,Clear,Daylight,Snow
+2024-01-13,07:26,Highway 2,Serious,3,Fog,Darkness - No Lights,Wet
+2024-01-14,05:22,City B,Fatal,3,Snow,Darkness - Lights On,Ice
+2024-01-15,22:50,Highway 1,Slight,2,Rain,Darkness - Lights On,Snow
+2024-01-16,07:29,City B,Slight,4,Windy,Darkness - No Lights,Dry
+2024-01-17,09:57,Highway 1,Slight,3,Snow,Darkness - No Lights,Wet
+2024-01-18,06:55,Highway 2,Slight,3,Fog,Darkness - No Lights,Ice
+2024-01-19,05:06,City A,Slight,1,Rain,Darkness - No Lights,Snow
+2024-01-20,22:24,Highway 1,Slight,3,Rain,Daylight,Dry
+2024-01-21,17:35,City B,Slight,2,Windy,Darkness - No Lights,Ice
+2024-01-22,04:38,Highway 2,Serious,2,Clear,Darkness - Lights On,Ice
+2024-01-23,21:50,Highway 1,Slight,1,Fog,Darkness - Lights On,Wet
+2024-01-24,09:03,City A,Serious,4,Windy,Daylight,Ice
+2024-01-25,23:58,City A,Slight,2,Fog,Darkness - Lights On,Wet
+2024-01-26,16:08,City C,Slight,2,Clear,Darkness - Lights On,Snow
+2024-01-27,11:43,City C,Slight,5,Clear,Darkness - No Lights,Wet
+2024-01-28,07:19,City B,Slight,4,Windy,Darkness - Lights On,Dry
+2024-01-29,01:29,Highway 1,Slight,2,Clear,Daylight,Wet
+2024-01-30,12:27,Highway 1,Slight,4,Snow,Darkness - No Lights,Dry
+2024-01-31,22:31,City C,Slight,3,Rain,Darkness - No Lights,Wet
+2024-02-01,07:26,Highway 1,Slight,1,Windy,Daylight,Ice
+2024-02-02,13:14,Highway 1,Slight,2,Fog,Darkness - No Lights,Snow
+2024-02-03,16:26,City A,Slight,3,Snow,Darkness - No Lights,Dry
+2024-02-04,00:19,City C,Slight,2,Windy,Daylight,Wet
+2024-02-05,05:39,Highway 2,Slight,3,Clear,Darkness - No Lights,Wet
+2024-02-06,04:07,City C,Serious,4,Clear,Daylight,Wet
+2024-02-07,02:43,Highway 2,Slight,4,Clear,Daylight,Ice
+2024-02-08,01:32,City A,Slight,4,Clear,Darkness - Lights On,Ice
+2024-02-09,18:08,City B,Slight,4,Fog,Darkness - Lights On,Dry
+2024-02-10,17:10,Highway 1,Slight,2,Snow,Darkness - No Lights,Dry
+2024-02-11,09:12,City A,Slight,3,Rain,Darkness - No Lights,Ice
+2024-02-12,08:06,Highway 1,Slight,2,Fog,Daylight,Dry
+2024-02-13,19:00,City B,Fatal,2,Fog,Darkness - No Lights,Snow
+2024-02-14,21:58,City B,Serious,1,Rain,Daylight,Snow
+2024-02-15,08:08,City A,Serious,6,Rain,Daylight,Ice
+2024-02-16,14:31,City B,Slight,6,Clear,Darkness - No Lights,Dry
+2024-02-17,22:01,Highway 2,Slight,3,Fog,Daylight,Wet
+2024-02-18,03:14,City B,Slight,4,Windy,Darkness - Lights On,Snow
+2024-02-19,14:34,Highway 1,Slight,4,Rain,Darkness - No Lights,Ice
+2024-02-20,21:38,Highway 1,Slight,4,Rain,Darkness - Lights On,Dry
+2024-02-21,12:56,Highway 1,Serious,3,Snow,Darkness - No Lights,Ice
+2024-02-22,13:45,Highway 1,Slight,2,Windy,Daylight,Wet
+2024-02-23,09:26,Highway 2,Fatal,2,Windy,Darkness - No Lights,Snow
+2024-02-24,10:54,City C,Slight,2,Rain,Darkness - Lights On,Ice
+2024-02-25,03:41,City A,Serious,1,Clear,Daylight,Ice
+2024-02-26,09:25,Highway 1,Slight,4,Snow,Darkness - No Lights,Ice
+2024-02-27,02:33,City B,Slight,6,Windy,Darkness - No Lights,Wet
+2024-02-28,04:20,Highway 1,Slight,4,Rain,Darkness - No Lights,Ice
+2024-02-29,00:10,City B,Slight,6,Windy,Darkness - Lights On,Wet
+2024-03-01,13:00,City B,Slight,4,Snow,Darkness - Lights On,Wet
+2024-03-02,11:44,Highway 1,Fatal,4,Snow,Darkness - No Lights,Wet
+2024-03-03,09:05,Highway 2,Serious,4,Fog,Daylight,Snow
+2024-03-04,01:51,City B,Slight,3,Rain,Daylight,Snow
+2024-03-05,08:45,City B,Slight,2,Snow,Darkness - Lights On,Ice
+2024-03-06,09:11,Highway 1,Slight,2,Fog,Daylight,Ice
+2024-03-07,19:18,City B,Serious,3,Fog,Darkness - Lights On,Snow
+2024-03-08,20:49,City B,Slight,2,Windy,Darkness - No Lights,Dry
+2024-03-09,20:40,Highway 1,Slight,7,Windy,Darkness - Lights On,Snow
+2024-03-10,11:48,Highway 1,Slight,2,Fog,Darkness - Lights On,Wet
+2024-03-11,20:12,City A,Slight,3,Windy,Darkness - No Lights,Snow
+2024-03-12,01:20,Highway 2,Slight,2,Snow,Daylight,Wet
+2024-03-13,18:19,Highway 2,Slight,3,Clear,Darkness - Lights On,Ice
+2024-03-14,07:26,City B,Fatal,4,Snow,Darkness - Lights On,Dry
+2024-03-15,01:51,Highway 2,Slight,3,Fog,Darkness - No Lights,Ice
+2024-03-16,08:45,City B,Slight,5,Fog,Daylight,Wet
+2024-03-17,00:53,City A,Slight,3,Snow,Darkness - Lights On,Wet
+2024-03-18,04:20,Highway 1,Slight,2,Windy,Darkness - No Lights,Wet
+2024-03-19,12:56,Highway 1,Fatal,3,Windy,Darkness - Lights On,Dry
+2024-03-20,05:50,Highway 1,Slight,1,Fog,Darkness - No Lights,Snow
+2024-03-21,18:04,Highway 2,Slight,3,Rain,Daylight,Ice
+2024-03-22,10:14,City A,Slight,1,Windy,Daylight,Ice
+2024-03-23,14:59,Highway 2,Slight,3,Snow,Daylight,Snow
+2024-03-24,10:05,Highway 2,Serious,4,Windy,Daylight,Ice
+2024-03-25,02:51,City A,Slight,1,Snow,Darkness - Lights On,Dry
+2024-03-26,13:39,City A,Slight,1,Fog,Darkness - Lights On,Ice
+2024-03-27,19:09,City A,Slight,3,Windy,Daylight,Wet
+2024-03-28,01:00,City A,Slight,2,Snow,Daylight,Snow
+2024-03-29,10:49,Highway 1,Slight,3,Fog,Daylight,Dry
+2024-03-30,12:16,City C,Slight,2,Rain,Darkness - Lights On,Snow
+2024-03-31,22:15,City C,Slight,4,Snow,Daylight,Dry
+2024-04-01,14:12,City A,Slight,3,Rain,Daylight,Wet
+2024-04-02,19:52,City C,Fatal,5,Rain,Daylight,Snow
+2024-04-03,04:04,City C,Slight,3,Clear,Darkness - No Lights,Ice
+2024-04-04,05:35,City A,Slight,3,Windy,Daylight,Dry
+2024-04-05,03:43,City C,Serious,2,Snow,Darkness - No Lights,Snow
+2024-04-06,04:17,Highway 2,Serious,3,Rain,Darkness - No Lights,Ice
+2024-04-07,14:54,City B,Slight,2,Clear,Daylight,Snow
+2024-04-08,03:01,City B,Slight,4,Fog,Darkness - No Lights,Snow
+2024-04-09,01:00,City A,Slight,3,Snow,Daylight,Snow
+2024-04-10,07:28,Highway 1,Slight,2,Rain,Darkness - Lights On,Dry
+2024-04-11,06:12,City A,Fatal,4,Windy,Darkness - Lights On,Ice
+2024-04-12,13:38,Highway 1,Serious,3,Clear,Darkness - Lights On,Wet
+2024-04-13,09:30,City B,Slight,4,Rain,Darkness - Lights On,Dry
+2024-04-14,02:57,City A,Slight,4,Windy,Darkness - No Lights,Dry
+2024-04-15,23:18,Highway 2,Fatal,2,Rain,Daylight,Dry
+2024-04-16,15:34,City C,Slight,2,Snow,Daylight,Wet
+2024-04-17,08:31,Highway 1,Slight,4,Snow,Daylight,Ice
+2024-04-18,03:36,City C,Slight,6,Snow,Darkness - Lights On,Ice
+2024-04-19,13:32,City C,Slight,2,Clear,Darkness - Lights On,Ice
+2024-04-20,04:59,City A,Fatal,3,Snow,Daylight,Snow
+2024-04-21,06:04,City C,Fatal,7,Windy,Darkness - Lights On,Snow
+2024-04-22,17:28,Highway 2,Serious,4,Rain,Daylight,Snow
+2024-04-23,18:45,City C,Slight,2,Fog,Daylight,Wet
+2024-04-24,03:41,City A,Serious,1,Windy,Daylight,Snow
+2024-04-25,20:49,Highway 2,Slight,4,Windy,Daylight,Wet
+2024-04-26,15:17,City B,Slight,6,Snow,Daylight,Ice
+2024-04-27,07:37,City C,Slight,3,Clear,Daylight,Snow
+2024-04-28,19:55,City A,Serious,4,Rain,Daylight,Snow
+2024-04-29,05:10,City B,Serious,5,Clear,Darkness - Lights On,Dry
+2024-04-30,11:46,City B,Slight,4,Rain,Daylight,Wet
+2024-05-01,03:51,Highway 1,Serious,4,Rain,Daylight,Ice
+2024-05-02,00:56,Highway 2,Slight,2,Clear,Darkness - Lights On,Dry
+2024-05-03,04:09,City C,Slight,3,Windy,Darkness - Lights On,Dry
+2024-05-04,05:17,City A,Slight,7,Rain,Darkness - Lights On,Ice
+2024-05-05,19:46,Highway 1,Slight,1,Clear,Daylight,Dry
+2024-05-06,19:05,Highway 2,Slight,4,Rain,Darkness - No Lights,Wet
+2024-05-07,05:12,Highway 1,Slight,2,Fog,Darkness - No Lights,Wet
+2024-05-08,09:49,Highway 2,Slight,3,Windy,Darkness - Lights On,Snow
+2024-05-09,01:13,Highway 2,Slight,5,Snow,Darkness - No Lights,Dry
+2024-05-10,23:36,City C,Slight,3,Rain,Darkness - Lights On,Snow
+2024-05-11,03:35,Highway 2,Slight,3,Fog,Daylight,Dry
+2024-05-12,11:09,Highway 1,Slight,2,Snow,Darkness - No Lights,Wet
+2024-05-13,09:58,Highway 2,Slight,7,Snow,Daylight,Wet
+2024-05-14,12:58,City C,Slight,2,Rain,Darkness - No Lights,Wet
+2024-05-15,23:31,City C,Slight,2,Clear,Daylight,Dry
+2024-05-16,08:45,Highway 1,Slight,2,Rain,Darkness - No Lights,Wet
+2024-05-17,18:58,City B,Slight,4,Fog,Daylight,Dry
+2024-05-18,17:00,City B,Fatal,3,Snow,Daylight,Snow
+2024-05-19,00:45,Highway 2,Slight,3,Rain,Darkness - No Lights,Dry
+2024-05-20,22:32,City A,Slight,3,Clear,Daylight,Snow
+2024-05-21,08:40,Highway 2,Fatal,1,Rain,Daylight,Dry
+2024-05-22,22:57,Highway 1,Slight,1,Windy,Daylight,Snow
+2024-05-23,00:25,Highway 1,Slight,2,Clear,Darkness - No Lights,Wet
+2024-05-24,20:58,Highway 1,Slight,1,Fog,Darkness - No Lights,Snow
+2024-05-25,19:35,Highway 1,Slight,5,Snow,Daylight,Wet
+2024-05-26,07:44,Highway 1,Serious,2,Rain,Daylight,Wet
+2024-05-27,06:38,City C,Slight,9,Clear,Darkness - No Lights,Snow
+2024-05-28,09:59,City B,Slight,2,Windy,Darkness - No Lights,Dry
+2024-05-29,12:20,Highway 1,Slight,2,Clear,Daylight,Dry
+2024-05-30,17:39,City A,Serious,5,Windy,Daylight,Ice
+2024-05-31,01:24,City A,Slight,1,Fog,Daylight,Dry
+2024-06-01,11:26,City A,Slight,3,Snow,Darkness - Lights On,Ice
+2024-06-02,09:43,City A,Slight,4,Fog,Darkness - No Lights,Dry
+2024-06-03,11:48,City C,Serious,4,Rain,Darkness - Lights On,Dry
+2024-06-04,17:16,City A,Slight,3,Clear,Darkness - No Lights,Wet
+2024-06-05,10:44,Highway 1,Slight,4,Windy,Darkness - No Lights,Ice
+2024-06-06,22:19,Highway 2,Slight,5,Windy,Darkness - No Lights,Dry
+2024-06-07,19:25,City A,Slight,4,Clear,Darkness - No Lights,Ice
+2024-06-08,10:44,City C,Slight,3,Clear,Darkness - No Lights,Wet
+2024-06-09,22:48,City C,Slight,2,Rain,Darkness - No Lights,Wet
+2024-06-10,17:00,City A,Slight,2,Fog,Darkness - No Lights,Ice
+2024-06-11,21:15,Highway 2,Slight,1,Windy,Darkness - Lights On,Wet
+2024-06-12,02:45,City A,Fatal,1,Rain,Daylight,Snow
+2024-06-13,13:15,City C,Serious,1,Fog,Daylight,Snow
+2024-06-14,04:37,City B,Slight,1,Rain,Darkness - Lights On,Wet
+2024-06-15,10:39,Highway 1,Fatal,3,Windy,Darkness - Lights On,Snow
+2024-06-16,20:22,City C,Slight,2,Clear,Darkness - Lights On,Dry
+2024-06-17,21:19,City A,Slight,3,Clear,Darkness - Lights On,Ice
+2024-06-18,13:12,Highway 1,Slight,1,Fog,Darkness - No Lights,Dry
+2024-06-19,20:16,City A,Slight,3,Snow,Daylight,Ice
+2024-06-20,10:20,City A,Slight,3,Fog,Darkness - No Lights,Wet
+2024-06-21,11:57,City B,Slight,2,Snow,Daylight,Dry
+2024-06-22,18:26,Highway 1,Slight,1,Rain,Daylight,Wet
+2024-06-23,09:29,Highway 1,Slight,2,Rain,Darkness - Lights On,Wet
+2024-06-24,17:36,City B,Fatal,4,Windy,Darkness - No Lights,Ice
+2024-06-25,19:45,City C,Serious,7,Snow,Darkness - Lights On,Ice
+2024-06-26,07:19,City A,Slight,3,Windy,Darkness - No Lights,Ice
+2024-06-27,00:00,Highway 2,Fatal,2,Clear,Daylight,Dry
+2024-06-28,08:14,City A,Fatal,1,Snow,Darkness - Lights On,Snow
+2024-06-29,07:08,City A,Fatal,2,Fog,Darkness - Lights On,Ice
+2024-06-30,19:14,City C,Slight,5,Clear,Daylight,Ice
+2024-07-01,14:25,City A,Serious,4,Clear,Daylight,Dry
+2024-07-02,15:29,City B,Slight,5,Fog,Daylight,Ice
+2024-07-03,12:27,City B,Serious,3,Clear,Darkness - Lights On,Dry
+2024-07-04,06:40,Highway 1,Fatal,5,Snow,Darkness - No Lights,Wet
+2024-07-05,19:25,Highway 2,Slight,2,Windy,Darkness - Lights On,Ice
+2024-07-06,03:30,City A,Serious,2,Clear,Darkness - No Lights,Ice
+2024-07-07,14:32,City A,Serious,4,Snow,Darkness - Lights On,Wet
+2024-07-08,13:37,City C,Serious,2,Rain,Darkness - Lights On,Wet
+2024-07-09,04:57,City B,Slight,2,Snow,Daylight,Wet
+2024-07-10,21:10,Highway 2,Slight,3,Windy,Darkness - No Lights,Ice
+2024-07-11,23:03,Highway 1,Slight,3,Snow,Darkness - Lights On,Snow
+2024-07-12,17:29,City B,Serious,6,Fog,Darkness - Lights On,Snow
+2024-07-13,23:51,Highway 1,Slight,5,Windy,Daylight,Snow
+2024-07-14,22:03,City C,Slight,2,Rain,Daylight,Ice
+2024-07-15,05:01,City C,Slight,2,Fog,Darkness - No Lights,Wet
+2024-07-16,12:03,City A,Slight,2,Snow,Darkness - Lights On,Ice
+2024-07-17,20:56,Highway 2,Serious,2,Windy,Darkness - No Lights,Wet
+2024-07-18,16:15,Highway 1,Serious,5,Rain,Darkness - Lights On,Ice
+2024-07-19,23:24,City B,Slight,4,Fog,Darkness - No Lights,Ice
+2024-07-20,07:42,City C,Fatal,3,Rain,Daylight,Wet
+2024-07-21,22:40,City A,Slight,2,Snow,Darkness - Lights On,Snow
+2024-07-22,06:21,City A,Slight,3,Rain,Darkness - No Lights,Wet
+2024-07-23,09:03,Highway 1,Serious,2,Clear,Daylight,Dry
+2024-07-24,04:18,City C,Slight,2,Fog,Daylight,Dry
+2024-07-25,18:17,Highway 2,Slight,2,Rain,Darkness - No Lights,Wet
+2024-07-26,10:59,City C,Serious,4,Snow,Darkness - Lights On,Ice
+2024-07-27,22:41,Highway 1,Slight,3,Snow,Darkness - Lights On,Dry
+2024-07-28,06:08,Highway 1,Slight,3,Rain,Daylight,Dry
+2024-07-29,02:33,City C,Slight,4,Snow,Darkness - Lights On,Ice
+2024-07-30,07:22,Highway 1,Slight,1,Windy,Darkness - Lights On,Ice
+2024-07-31,20:40,City C,Slight,6,Windy,Darkness - Lights On,Snow
+2024-08-01,07:14,City B,Slight,2,Windy,Daylight,Ice
+2024-08-02,00:07,City C,Serious,4,Clear,Darkness - No Lights,Wet
+2024-08-03,10:18,City C,Serious,1,Rain,Darkness - Lights On,Wet
+2024-08-04,00:26,Highway 1,Serious,2,Clear,Daylight,Snow
+2024-08-05,12:55,Highway 1,Serious,2,Snow,Daylight,Dry
+2024-08-06,22:52,City A,Slight,4,Clear,Darkness - No Lights,Dry
+2024-08-07,18:58,City A,Slight,4,Snow,Darkness - Lights On,Ice
+2024-08-08,12:59,City B,Slight,3,Snow,Darkness - Lights On,Wet
+2024-08-09,08:36,City A,Slight,7,Fog,Darkness - No Lights,Dry
+2024-08-10,23:31,City C,Slight,4,Windy,Darkness - No Lights,Snow
+2024-08-11,07:39,Highway 1,Slight,5,Snow,Daylight,Snow
+2024-08-12,08:36,City A,Slight,2,Fog,Daylight,Wet
+2024-08-13,09:13,City A,Serious,1,Windy,Darkness - No Lights,Snow
+2024-08-14,03:49,City B,Fatal,2,Snow,Darkness - Lights On,Snow
+2024-08-15,20:34,City B,Slight,2,Snow,Daylight,Wet
+2024-08-16,11:02,City C,Slight,5,Clear,Daylight,Ice
+2024-08-17,23:14,Highway 1,Slight,2,Clear,Darkness - Lights On,Ice
+2024-08-18,09:45,City B,Fatal,3,Windy,Daylight,Snow
+2024-08-19,12:55,City A,Fatal,2,Snow,Darkness - Lights On,Ice
+2024-08-20,01:06,Highway 1,Slight,2,Rain,Darkness - Lights On,Ice
+2024-08-21,09:06,Highway 1,Slight,3,Clear,Darkness - Lights On,Snow
+2024-08-22,05:05,City A,Slight,3,Windy,Darkness - No Lights,Ice
+2024-08-23,14:16,City B,Slight,5,Snow,Darkness - No Lights,Snow
+2024-08-24,09:01,City A,Slight,6,Snow,Darkness - No Lights,Dry
+2024-08-25,09:56,Highway 1,Slight,1,Rain,Darkness - Lights On,Wet
+2024-08-26,08:42,Highway 2,Fatal,2,Windy,Darkness - Lights On,Wet
+2024-08-27,12:23,Highway 2,Slight,2,Snow,Darkness - No Lights,Ice
+2024-08-28,19:09,City C,Slight,4,Clear,Daylight,Ice
+2024-08-29,05:43,City A,Serious,3,Rain,Darkness - Lights On,Ice
+2024-08-30,16:53,City A,Fatal,3,Windy,Daylight,Wet
+2024-08-31,04:12,City C,Fatal,4,Rain,Daylight,Dry
+2024-09-01,13:18,City C,Slight,1,Clear,Darkness - Lights On,Dry
+2024-09-02,02:24,City C,Slight,3,Windy,Darkness - Lights On,Wet
+2024-09-03,20:26,Highway 1,Slight,5,Rain,Daylight,Dry
+2024-09-04,12:43,City A,Slight,6,Fog,Daylight,Wet
+2024-09-05,23:24,Highway 1,Slight,5,Clear,Darkness - No Lights,Dry
+2024-09-06,08:16,City C,Slight,1,Clear,Darkness - No Lights,Snow
+2024-09-07,02:58,City A,Slight,2,Clear,Darkness - Lights On,Snow
+2024-09-08,08:00,Highway 1,Slight,4,Fog,Darkness - No Lights,Wet
+2024-09-09,19:39,Highway 1,Slight,3,Fog,Darkness - No Lights,Dry
+2024-09-10,14:09,City C,Slight,4,Snow,Darkness - No Lights,Ice
+2024-09-11,01:19,City A,Slight,2,Rain,Darkness - No Lights,Dry
+2024-09-12,17:06,City C,Slight,3,Snow,Daylight,Snow
+2024-09-13,11:47,City A,Slight,2,Rain,Darkness - Lights On,Snow
+2024-09-14,04:23,Highway 2,Slight,2,Fog,Darkness - No Lights,Dry
+2024-09-15,02:08,City B,Slight,2,Fog,Daylight,Dry
+2024-09-16,09:42,City B,Slight,4,Snow,Daylight,Ice
+2024-09-17,08:51,City B,Slight,6,Windy,Daylight,Ice
+2024-09-18,02:31,City C,Slight,3,Snow,Darkness - No Lights,Dry
+2024-09-19,11:00,Highway 2,Slight,4,Rain,Darkness - No Lights,Dry
+2024-09-20,05:54,City A,Fatal,4,Snow,Darkness - Lights On,Dry
+2024-09-21,17:11,Highway 1,Slight,4,Clear,Darkness - No Lights,Dry
+2024-09-22,16:40,City A,Slight,4,Rain,Darkness - No Lights,Wet
+2024-09-23,06:04,Highway 1,Fatal,3,Rain,Daylight,Dry
+2024-09-24,11:46,City A,Slight,1,Windy,Darkness - Lights On,Ice
+2024-09-25,19:48,Highway 2,Serious,2,Fog,Darkness - No Lights,Snow
+2024-09-26,22:35,Highway 1,Slight,4,Rain,Darkness - No Lights,Wet
+2024-09-27,18:58,City C,Slight,1,Fog,Daylight,Dry
+2024-09-28,10:36,City A,Slight,3,Snow,Daylight,Snow
+2024-09-29,12:33,City A,Serious,2,Clear,Darkness - No Lights,Wet
+2024-09-30,11:07,Highway 1,Slight,4,Windy,Darkness - Lights On,Snow
+2024-10-01,10:56,City C,Fatal,3,Fog,Darkness - Lights On,Dry
+2024-10-02,22:54,City C,Slight,3,Rain,Daylight,Dry
+2024-10-03,22:41,Highway 2,Serious,2,Fog,Daylight,Ice
+2024-10-04,15:23,City C,Slight,4,Rain,Darkness - No Lights,Dry
+2024-10-05,10:23,City C,Serious,3,Fog,Daylight,Dry
+2024-10-06,16:39,City C,Slight,4,Rain,Darkness - No Lights,Wet
+2024-10-07,14:40,City B,Slight,4,Snow,Darkness - Lights On,Ice
+2024-10-08,12:47,Highway 2,Slight,2,Rain,Darkness - Lights On,Wet
+2024-10-09,14:49,City A,Slight,2,Rain,Darkness - No Lights,Snow
+2024-10-10,03:56,Highway 1,Slight,3,Clear,Daylight,Dry
+2024-10-11,06:11,City A,Slight,1,Rain,Darkness - Lights On,Snow
+2024-10-12,14:10,Highway 2,Slight,1,Clear,Daylight,Wet
+2024-10-13,11:12,Highway 1,Slight,4,Windy,Darkness - Lights On,Dry
+2024-10-14,01:57,Highway 2,Serious,2,Clear,Darkness - No Lights,Dry
+2024-10-15,06:52,City C,Fatal,4,Snow,Darkness - No Lights,Wet
+2024-10-16,02:27,Highway 1,Slight,3,Clear,Darkness - No Lights,Wet
+2024-10-17,18:49,City C,Serious,1,Windy,Darkness - Lights On,Wet
+2024-10-18,01:56,City A,Serious,1,Snow,Daylight,Wet
+2024-10-19,17:51,City A,Slight,2,Fog,Daylight,Wet
+2024-10-20,19:34,Highway 1,Slight,2,Fog,Daylight,Dry
+2024-10-21,01:44,Highway 1,Slight,3,Clear,Darkness - Lights On,Wet
+2024-10-22,08:54,Highway 2,Slight,3,Clear,Darkness - Lights On,Dry
+2024-10-23,06:19,Highway 2,Slight,4,Windy,Darkness - Lights On,Dry
+2024-10-24,16:16,City C,Slight,4,Windy,Darkness - Lights On,Wet
+2024-10-25,07:42,Highway 1,Serious,1,Rain,Darkness - Lights On,Wet
+2024-10-26,12:36,City A,Serious,7,Windy,Daylight,Ice
